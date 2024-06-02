@@ -36,10 +36,10 @@ Gemini Explorer is a project that uses Google Cloud and Gemini to build an inter
       ```
 
 ## Usage
-    - Run the application:
-      ```bash
-      streamlit run GeminiExplorer.py
-      ```
+
+Run the application:
+```bash
+streamlit run GeminiExplorer.py
 
 ## Contact
 If you have any questions or suggestions about the project, please contact me at youngsunlee07@example.com.
