@@ -44,4 +44,4 @@ streamlit run GeminiExplorer.py
 
 ## Contact 
 
-If you have any questions or suggestions about the project, please contact me at youngsunlee07@example.com.
+If you have any questions or suggestions about the project, please contact me at youngsun.lee07@gmail.com.
