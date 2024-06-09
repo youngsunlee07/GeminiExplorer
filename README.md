@@ -21,12 +21,12 @@ Gemini Explorer is a project that uses Google Cloud and Gemini to build an inter
 
 2. Clone this repository:
     ```bash
-    git clone https://github.com/youngsunlee07/GoogleGemini.git
+    git clone https://github.com/youngsunlee07/GeminiExplorer.git
     ```
 
 3. Navigate to the project directory:
     ```bash
-    cd GoogleGemini
+    cd GeminiExplorer
     ```
 
 4. Install the required packages:
